@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+.header {
+  padding: 20px;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header__contents {
+  padding: 10px;
+}
