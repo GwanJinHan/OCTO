@@ -1,0 +1,19 @@
+.work{
+  display: inline-block;
+  padding: 0px 20px;
+  margin: 50px 0px;
+}
+
+.main{
+}
+.work img {
+  width : 300px;
+  height: 300px;
+}
+
+.works{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
