@@ -3,7 +3,7 @@
   color: black;
 }
 
-.header_title{
+.header_title {
   font-size: 50px;
   display: flex;
   justify-content: center;
@@ -14,26 +14,25 @@ a {
   text-decoration: none;
 }
 
-.header_main_content{
+.header_main_content {
   font-size: 20px;
   padding: 20px;
   display: inline-block;
 }
 
-.header_main_contents{
+.header_main_contents {
   display: flex;
   justify-content: center;
 }
 
-.main_contents{
+.main_contents {
   margin-top: 40px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-
 }
 
-.main_contents img{
+.main_contents img {
   width: 50vh;
   height: 60vh;
   margin-bottom: 30px;
@@ -43,10 +42,10 @@ a {
   font-size: 30px;
 }
 
-.main_content{
+.main_content {
   padding: 0px 30px;
 }
 
-.about_content{
+.about_content {
   font-size: 30px;
 }
