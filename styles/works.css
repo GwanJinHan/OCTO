@@ -1,19 +1,27 @@
-.work{
+.work {
   display: inline-block;
   padding: 0px 20px;
   margin: 50px 0px;
 }
 
-.main{
+.main {
 }
 .work img {
-  width : 300px;
+  width: 300px;
   height: 300px;
 }
 
-.works{
-  display:flex;
+.works {
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

@@ -49,3 +49,7 @@ a {
 .about_content {
   font-size: 30px;
 }
+
+*::-webkit-scrollbar {
+  display: none;
+}
