@@ -7,7 +7,7 @@
   font-size: 50px;
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 130px;
 }
 
 a {
@@ -23,27 +23,29 @@ a {
 .header_main_contents {
   display: flex;
   justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
 }
 
 .main_contents {
-  margin-top: 40px;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: inline-flex;
+  margin-top: 1px;
 }
 
 .main_contents img {
-  width: 50vh;
-  height: 60vh;
-  margin-bottom: 30px;
+  width: 45vh;
+  height: 45vh;
+  margin-left: -150px;
+  margin-right: 60px;
 }
 
 #name {
   font-size: 30px;
-}
-
-.main_content {
-  padding: 0px 30px;
 }
 
 .about_content {
