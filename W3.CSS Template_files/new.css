@@ -1,0 +1,13 @@
+.main_logo {
+  width: 700px;
+  height: auto;
+  margin: 100px 0 200px 0;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+.sidebar_logo {
+  padding: 5px 10px;
+}
