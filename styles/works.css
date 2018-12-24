@@ -1,0 +1,41 @@
+.work img {
+  width: 50vh;
+  height: auto;
+}
+
+.works {
+  align-items: center;
+  justify-content: center;
+}
+
+#mainone {
+}
+
+.works {
+}
+
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.works {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 4em;
+  grid-row-gap: 4em;
+}
+
+#mainone {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,8 @@
+@import "works.css";
+@import "wow.js";
+@import "header.css";
+@import "main.css";
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700&subset=latin-ext");
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
