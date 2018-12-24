@@ -1,7 +1,6 @@
 .main_logo {
-  width: 700px;
+  width: 70%;
   height: auto;
-  margin: 100px 0 200px 0;
 }
 
 *::-webkit-scrollbar {
